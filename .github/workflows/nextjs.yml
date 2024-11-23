@@ -2,7 +2,7 @@ name: Deploy Next.js Portfolio
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   workflow_dispatch:
 
 permissions:
